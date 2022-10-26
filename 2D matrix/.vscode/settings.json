@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c++": "dart",
+        "ostream": "cpp",
+        "vector": "cpp"
+    }
+}

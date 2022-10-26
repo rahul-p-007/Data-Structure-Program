@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.c++": "dart",
+        "ostream": "cpp",
+        "random": "cpp",
+        "iostream": "cpp"
+    }
+}

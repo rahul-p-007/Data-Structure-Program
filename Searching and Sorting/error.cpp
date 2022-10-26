@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    int n =1;
+    do
+    {
+        cout<<n<<endl;
+        n++;
+    } while (n=1);
+    
+    return 0;
+}
